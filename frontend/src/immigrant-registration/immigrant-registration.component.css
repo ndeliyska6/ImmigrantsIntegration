@@ -1,0 +1,56 @@
+.registration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+mat-card {
+  width: 100%;
+  max-width: 450px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fffbff;
+}
+
+mat-card-header {
+  background-color: #ba005c;
+  color: #fff;
+  border-radius: 4px 4px 0 0;
+  padding: 10px;
+}
+
+mat-card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+mat-card-content {
+  padding: 20px;
+}
+
+mat-form-field {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+mat-form-field mat-label {
+  color: #333;
+}
+
+mat-form-field mat-select {
+  background-color: #f9f9f9;
+}
+
+button.mat-raised-button {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+

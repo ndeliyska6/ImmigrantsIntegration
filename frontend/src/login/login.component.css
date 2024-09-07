@@ -1,0 +1,30 @@
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+mat-card {
+  width: 320px;
+  padding: 16px;
+  height: 330px;
+}
+
+mat-form-field{
+  display: inline-flex;
+  flex-direction: column;
+}
+mat-card-content {
+  justify-content: center;
+  display: flex;
+}
+
+button{
+  font-size: large;
+}
+
+mat-card-title{
+  color: #ba005c;
+}

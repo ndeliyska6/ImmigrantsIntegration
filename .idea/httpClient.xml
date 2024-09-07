@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;226c55bd9f9ca98244e4517457e8c2495f3f15c8&quot; value=&quot;###&amp;#10;POST http://localhost:8080/Immigrant/register&amp;#10;Content-Type: application/json&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;id&amp;quot;: 0,&amp;#10;  &amp;quot;name&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;nationality&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;gender&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;age&amp;quot;: 0,&amp;#10;  &amp;quot;entryDate&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;leavingDate&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;room&amp;quot;: {},&amp;#10;  &amp;quot;immigrantStatus&amp;quot;: &amp;quot;ACCOMMODATED&amp;quot;&amp;#10;}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
